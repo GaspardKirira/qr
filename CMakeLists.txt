@@ -23,4 +23,7 @@ enable_testing()
 
 add_executable(qr_basic_test tests/test_basic.cpp)
 target_link_libraries(qr_basic_test PRIVATE qr::qr)
+
 add_test(NAME qr.basic COMMAND qr_basic_test)
+
+add_subdirectory(examples)
