@@ -1,15 +1,28 @@
 {
   "name": "qr",
   "namespace": "gk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "header-only",
   "include": "include",
   "license": "MIT",
   "description": "QR code generator (PNG/SVG output).",
   "keywords": [
+    "qr",
+    "qrcode",
+    "qr-code-generator",
+    "barcode",
+    "encoding",
+    "svg",
+    "png",
+    "image-generation",
+    "ascii-rendering",
     "cpp",
+    "c++",
     "header-only",
-    "vix"
+    "library",
+    "embedded",
+    "no-dependencies",
+    "high-performance"
   ],
   "repository": "https://github.com/Gaspardkirira/qr",
   "authors": [
